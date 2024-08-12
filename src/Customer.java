@@ -1,5 +1,3 @@
-package day5demo;
-
 public class Customer {
 	private int CustomerId;
 	private String name;
